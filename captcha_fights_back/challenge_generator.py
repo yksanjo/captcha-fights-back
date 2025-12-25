@@ -99,3 +99,6 @@ Challenge:"""
         challenge["challenge_id"] = f"ch_{random.randint(100000, 999999)}"
         return challenge
 
+
+
+

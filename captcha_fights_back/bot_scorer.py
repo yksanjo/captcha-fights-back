@@ -63,3 +63,6 @@ class BotScorer:
             "confidence": abs(bot_score - 0.5) * 2  # Higher when closer to 0 or 1
         }
 
+
+
+

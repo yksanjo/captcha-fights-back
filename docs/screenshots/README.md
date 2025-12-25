@@ -32,3 +32,6 @@ This directory contains screenshots of the CAPTCHA interface.
 - `contextual-question.png` - Contextual question
 - `behavioral-dashboard.png` - Admin view (optional)
 
+
+
+

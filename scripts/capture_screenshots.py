@@ -48,3 +48,6 @@ if __name__ == "__main__":
     input("Press Enter when ready...")
     capture_screenshots()
 
+
+
+
