@@ -1,5 +1,25 @@
 # 🧠 CAPTCHA That Fights Back: Adaptive Behavioral CAPTCHA with LLM-Powered Challenge Generation
 
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![GitHub stars](https://img.shields.io/github/stars/yksanjo/captcha-fights-back?style=social)
+
+
+## 📸 Screenshots
+
+### Main Dashboard
+![Dashboard](screenshots/dashboard.png)
+*Main interface and key features*
+
+### Additional Views
+![Features](screenshots/features.png)
+*Additional functionality and views*
+
+> **Note**: Screenshots will be added to the `screenshots/` directory. To add your own:
+> 1. Take screenshots of your application
+> 2. Save them in a `screenshots/` folder  
+> 3. Update the image paths above
+
+
 > *Defeats AI scrapers by evolving faster than bots can adapt.*
 
 ![CAPTCHA Interface](docs/screenshots/captcha-interface.png)
